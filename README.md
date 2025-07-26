@@ -53,3 +53,8 @@ To identify patterns and draw insights from student assessment data that can hel
    ```bash
    git clone https://github.com/praveen17052005/student-performance-analysis.git
    cd student-performance-analysis
+ 
+ ## 📊 Dataset
+
+The dataset used for this analysis is from [Kaggle](https://www.kaggle.com/) and included in the `/data` folder as `StudentsPerformance.csv`.
+
