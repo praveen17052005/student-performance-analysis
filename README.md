@@ -1,6 +1,6 @@
 # 📊 Student Performance Analysis
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
+[![Python]([https://img.shields.io/badge/python-3.8%2B-blue)](https://colab.research.google.com/drive/1S8ZjlsvagEvLLGaMh5vTJD1Wjy5RVvnx)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](STUDENT_PERFORMANCE_ANALYSIS.ipynb)
 [![License](https://img.shields.io/badge/license-MIT-green)](License)
 
