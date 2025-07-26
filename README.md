@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](STUDENT_PERFORMANCE_ANALYSIS.ipynb)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green)](License)
 
 
 This project analyzes student performance data using Python and Jupyter Notebook. It explores how various factors like gender, parental education, lunch type, and test preparation affect scores in math, reading, and writing.
