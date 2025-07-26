@@ -1,6 +1,6 @@
 # 📊 Student Performance Analysis
 
-[![Python]([https://img.shields.io/badge/python-3.8%2B-blue)](student_performance_analysis.py)
+[![Python]([https://img.shields.io/badge/python-3.8%2B-blue)](blob:null/1a4d15a3-0464-453d-af47-3903d2ea6055)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](STUDENT_PERFORMANCE_ANALYSIS.ipynb)
 [![License](https://img.shields.io/badge/license-MIT-green)](License)
 
